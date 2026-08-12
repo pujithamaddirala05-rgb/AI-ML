@@ -1,0 +1,6 @@
+﻿Workload ID,Latency Sensitivity,Data Volume,RAM Demand,Network Bandwidth,GPU Required,Target Class (High-Performance Edge)
+W1,High,Large,High,Dedicated,Yes,Yes
+W2,High,Small,High,Shared,Yes,No
+W3,High,Large,High,Shared,Yes,Yes
+W4,Low,Large,Medium,Shared,No,No
+W5,High,Large,High,Dedicated,No,Yes
